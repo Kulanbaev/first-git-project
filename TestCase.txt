@@ -1,5 +1,0 @@
-Feature: main Page
-  Scenario: Should navigate tonthe main page
-
-   When I go to the "google.com"
-   Then URL should  be "http://google.com"
